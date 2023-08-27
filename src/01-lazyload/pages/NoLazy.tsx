@@ -1,7 +1,11 @@
 
 const NoLazy = () => {
   return (
-    <div>No Lazy Load Component</div>
+    <div>
+      <h1>
+      No Lazy Load Component
+      </h1>
+    </div>
   )
 }
 
